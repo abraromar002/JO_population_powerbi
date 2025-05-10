@@ -34,3 +34,5 @@ Gender-specific death count comparisons
 Page 1: Current Population Analysis (2024–2025)
 
 Page 2: Forecasted Demographic Trends (2026–2035
+![Page1](https://github.com/user-attachments/assets/91518ef3-1a4b-41d8-9c13-44c6110698f1)
+![Page2](https://github.com/user-attachments/assets/89cd1e63-00f8-40b1-8988-a47969ab64a3)
